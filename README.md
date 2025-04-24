@@ -1,7 +1,7 @@
 # HackerNewsProject
 - 📂 Files
-HackerNews.ipynb – main notebook
-hacker_news.csv/ – raw data
+ 1. HackerNews.ipynb – main notebook
+ 2. hacker_news.csv/ – raw data
 - 💡 Tools Used
-Python (Matplotlib, Pandas)
-Data Quality techniques
+ 1. Python (Matplotlib, Pandas)
+ 2. Data Quality techniques
